@@ -1,3 +1,6 @@
+
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyoham&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=taiyoham&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
@@ -19,4 +22,3 @@
 [![github-chart](https://github-chart.vercel.app/api?user=taiyoham)](https://github.com/taiyoham/github-chart)
 
 
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
